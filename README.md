@@ -1,4 +1,4 @@
-## Hello! I'm Bubsy! :wave:
+## Hello! :wave:
 
 - Tinkerer of things that I find interesting
 - Enjoyer of free and open-source software
