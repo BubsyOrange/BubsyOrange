@@ -10,4 +10,3 @@
 
 ## My Other Repositories
 - [Codeberg](https://codeberg.org/BubsyOrange)
-- [GitLab](https://gitlab.com/BubsyOrange)
