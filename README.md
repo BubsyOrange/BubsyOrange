@@ -3,3 +3,5 @@
 - I'm a hobbyist programmer who enjoys learning things
 - I enjoy using both Vim and Emacs
 - Interested in game development
+
+![Bubsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BubsyOrange&show_icons=true&theme=shadow_green)
