@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00A101&width=435&lines=Hello!+%F0%9F%91%8B;I'm+Bubsy!)](https://git.io/typing-svg)
+## About Me
 
+![mymy_lunatic_dance](https://github.com/BubsyOrange/BubsyOrange/assets/95828808/9f641e30-2803-4650-98e5-07209e0a0d1c)
 
-![Bubsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BubsyOrange&show_icons=true&hide_border=true&theme=shadow_green)
+Hello, I'm Bubsy! I'm a hobbyist who likes tinkering with computers and learning new things!
